@@ -1,1 +1,1 @@
-# playoff-free-throws
+# How do playoffs affect free throws?
