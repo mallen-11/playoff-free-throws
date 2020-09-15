@@ -25,3 +25,6 @@ This folder contains an article on Linkedin about our entire analysis.
 ### Presentation
 
 This folder contains a presentation over the same material the article contains. The visuals are better explained here and there are more uses of charts of data.
+
+
+This analysis is done by Morgan Allen, Woo Seok Kim, and Thalia Dominiguez-Sanchez.
